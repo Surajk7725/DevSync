@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import UserInfo from './Components/UserInfo';
-import Repos from './Components/Repos';
+import UserInfo from './components/UserInfo';
+import Repos from './components/Repos';
 import  GlobalStyle  from './styles/GlobalStyle';
 import AppStyles from './styles/AppStyles';
 import InputStyles from './styles/InputStyles';
